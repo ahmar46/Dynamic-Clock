@@ -89,7 +89,7 @@ body {
 	position: absolute;
 	width: 2px;
 	height: 150px;
-	background: red;
+	background: rgb(219, 219, 200);
 	z-index: 12;
 	border-radius: 6px 6px 0 0;
 }
