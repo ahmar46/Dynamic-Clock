@@ -1,1 +1,1 @@
-### This is nice a looking Analou
+### This is nice a looking Analog
