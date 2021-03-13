@@ -1,3 +1,3 @@
 ### This is nice a looking Analogue watch.
 
-### Technologies Used: H
+### Technologies Used: HT
