@@ -1,3 +1,3 @@
 ### This is nice a looking Analogue watch.
 
-### Technologies Used: HTML, CSS & Ja
+### Technologies Used: HTML, CSS & Jav
