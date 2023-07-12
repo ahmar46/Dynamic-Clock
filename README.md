@@ -1,4 +1,4 @@
-### This is good a looking Analogue watch.
+### This is good a looking Analogue watch made .
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
