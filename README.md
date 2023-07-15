@@ -1,4 +1,4 @@
-### This is good a looking Analogue watch made for learning purpo.
+### This is good a looking Analogue watch made for learning purpos.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
