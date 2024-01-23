@@ -4,7 +4,7 @@
 
 ### Find me on Instagram - [@electrifyingcodes][Instagram].
 
-### Find me on Instagram - [@electrifyingcodes][Tele]
+### Find me on Instagram - [@electrifyingcodes][Teleg]
 
 ### Find me on Discord - [@electrifyingcodes][discord].
 
