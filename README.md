@@ -6,7 +6,7 @@
 
 ### Find me on Telegram- [@electrifyingcodes][Telegram]
 
-### Find m
+### Find me
 
 ### Find me on Discord - [@electrifyingcodes][discord].
 
